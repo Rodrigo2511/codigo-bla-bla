@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <img src="../novo HTML/imagens/icons8-instagram-50.png" alt="Instagram"> 
+ <img src="../novo HTML/imagens/icons8-youtube-48.png" alt="Youtube"> 
+ <img src="../novo HTML/imagens/icons8-facebook-novo-50.png" alt="Facebook">
+
+</body>
+</html>
